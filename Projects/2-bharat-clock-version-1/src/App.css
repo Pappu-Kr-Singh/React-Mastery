@@ -1,0 +1,32 @@
+.heading{
+  font-size: 45px;
+}
+
+.desc{
+  font-size: 40px;
+  font-weight: 400;
+  color: rgb(94, 110, 125);
+  letter-spacing: 1px;
+}
+
+.time{
+  font-size: 30px;
+  color:rgb(40, 54, 68);
+  font-weight: 600;
+}
+
+
+.main{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  align-items: center;
+  padding-top: 8vw;
+}
+.clock-container{
+  border: 1px solid grey;
+  width: 70%;
+  padding:20px;
+  border-radius: 5px;
+  
+}

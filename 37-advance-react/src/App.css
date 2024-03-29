@@ -1,0 +1,45 @@
+.app_container{
+  display: flex;
+}
+
+.content{
+  width: 100%;
+}
+
+.sidebar{
+  min-height: 800px;
+  position: sticky;
+}
+
+
+.create_post {
+  padding: 20px;
+  border: 1px solid #e4dddd;
+  width: 40%;
+  border-radius: 10px;
+  margin: 20px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+
+.post-card{
+  margin: 3vw 6vw;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+}
+
+.hashtags{
+  margin: 0px 5px;
+}
+
+.reactions{
+
+  text-align: center;
+}
+
+.card_img>img{
+  width: 100%;
+  border-radius: 10px;
+}
+
+.welcome-messege{
+  margin: 50px 0px;
+}

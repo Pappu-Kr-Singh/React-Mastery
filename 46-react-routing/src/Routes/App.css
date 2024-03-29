@@ -1,0 +1,45 @@
+.app_container{
+  display: flex;
+}
+
+.content{
+  width: 100%;
+}
+
+.sidebar{
+  min-height: 800px;
+  position: sticky;
+}
+
+.create_post{
+  padding: 20px;
+  border: 1px solid rgb(190, 169, 169);
+  width: 40%;
+  margin:2vw 4vw;
+  border-radius: 10px;
+  box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+
+.post-card{
+  margin: 3vw 6vw;
+  box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+
+.hashtags{
+  margin: 0px 5px;
+}
+
+.reactions{
+
+  text-align: center;
+}
+
+.card_img>img{
+  width: 100%;
+  border-radius: 10px;
+}
+
+.spinner{
+  margin: 10% 0;
+}
+

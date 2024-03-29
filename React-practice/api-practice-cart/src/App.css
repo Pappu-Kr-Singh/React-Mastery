@@ -1,0 +1,17 @@
+.main-card{
+  width: 20%;
+  margin:0vw 4vw;
+}
+.card-title{
+  margin: 10px 15px;
+}
+
+.prbc{
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.product{
+ margin-top: 20px;
+}

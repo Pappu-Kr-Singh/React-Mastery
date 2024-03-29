@@ -1,0 +1,38 @@
+.app_container{
+  display: flex;
+}
+
+.content{
+  width: 100%;
+}
+
+.sidebar{
+  min-height: 800px;
+  position: sticky;
+}
+
+.create_post{
+  padding: 20px;
+}
+
+.post-card{
+  margin: 3vw 6vw;
+}
+
+.hashtags{
+  margin: 0px 5px;
+}
+
+.reactions{
+
+  text-align: center;
+}
+
+.card_img>img{
+  width: 100%;
+  border-radius: 10px;
+}
+
+.spinner{
+  margin: 10% 0;
+}

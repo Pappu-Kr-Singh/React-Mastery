@@ -1,0 +1,10 @@
+.row-input{
+  margin-top: 10px;
+  
+}
+
+.input-num{
+  max-width: 120px;
+  outline: none;
+  padding: 5px;
+}
